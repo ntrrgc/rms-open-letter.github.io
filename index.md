@@ -119,6 +119,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alex Volkov
 1. Alfred Neumayer (UBports developer)
 1. Ali Polatel (Exherbo Linux)
+1. Alicia Boya García (Igalia)
 1. Alison Dowdney (Kubernetes SIG Contributor Experience Chair)
 1. Allan Day (Chair, GNOME Foundation Board of Directors)
 1. Allie `sapphiclinguine` M. (salmon_lib developer)
@@ -370,7 +371,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. classabbyamp
 1. Claudio Saavedra (former GNOME maintainer and GNOME Foundation member)
 1. Claudius Link
-1. C. Morgan Hamill (former FSF member)
 1. Coby Sher
 1. Cole Helbling (NixOS contributor)
 1. Colin Ian King
@@ -942,7 +942,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Leandro A. F. Pereira
 1. Lee Hambley (Capistrano maintainer, former FSFE member)
 1. Leif Walsh
-1. Leigh Scott (leigh123linux, Fedora)
 1. leo60228
 1. Leo Famulari
 1. Liam R. Howlett (kernel developer)
@@ -1079,7 +1078,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Maxime Renusson (Telecom engineer, FLOSS user and advocate)
 1. Maya Rashish (NetBSD)
 1. Meadhbh Hamrick
-1. Megan Marsh
 1. Mehdi Dogguy (Former Debian Project Leader)
 1. Melanie Kat
 1. Melissa Boiko
@@ -1353,7 +1351,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ryan Lahfa
 1. Ryan McNeely
 1. Ryan Petrello (Ansible AWX Maintainer, Red Hat)
-1. Ryan Prior (LibrePlanet speaker, GNU Guix, FSF member)
 1. Ryan Schmidt
 1. Ryu "SaidBySolo" JuHeon
 1. Sadie Powell (InspIRCd)
